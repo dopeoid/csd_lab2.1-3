@@ -1,5 +1,7 @@
 # Lab 2. The RPG character - the most appropriate item handbook
 Author - Какунин Олег Алексеевич, 4 курс 4 группа
+
+Let's take a look at a role-playing system with characters and the items most appropriate to him using the League of Legends game as an example.
 ## Handbook Character
 
 1) `character_id int` - character identifier
