@@ -42,3 +42,5 @@ There is .sql script on SQLite in this repo, but if you don’t want to execute 
 ![Image alt](https://github.com/dopeoid/csd_lab2.1-3/blob/main/src/scr1.jpg)
 
 ![Image alt](https://github.com/dopeoid/csd_lab2.1-3/blob/main/src/scr2.jpg)
+
+Author - Какунин Олег Алексеевич, 4 курс 4 группа
