@@ -1,4 +1,5 @@
 # Lab 2. The RPG character - the most appropriate item handbook
+Author - Какунин Олег Алексеевич, 4 курс 4 группа
 ## Handbook Character
 
 1) `character_id int` - character identifier
@@ -43,4 +44,4 @@ There is .sql script on SQLite in this repo, but if you don’t want to execute 
 
 ![Image alt](https://github.com/dopeoid/csd_lab2.1-3/blob/main/src/scr2.jpg)
 
-Author - Какунин Олег Алексеевич, 4 курс 4 группа
+
